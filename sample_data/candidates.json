@@ -1,0 +1,435 @@
+[
+  {
+    "candidate_id": "CAND_0000001",
+    "profile": {
+      "anonymized_name": "Ira Vora",
+      "headline": "Backend Engineer | SQL, Spark, Cloud",
+      "summary": "Software/data professional with 6.9 years of experience building data pipelines, backend systems, and analytics infrastructure. Spark, Airflow, SQL warehouses are home territory. Interested in transitioning toward more AI/ML-focused work.",
+      "location": "Toronto",
+      "country": "Canada",
+      "years_of_experience": 6.9,
+      "current_title": "Backend Engineer",
+      "current_company": "Mindtree",
+      "current_company_size": "10001+",
+      "current_industry": "IT Services"
+    },
+    "career_history": [
+      {
+        "company": "Mindtree",
+        "title": "Backend Engineer",
+        "start_date": "2024-03-08",
+        "end_date": null,
+        "duration_months": 27,
+        "is_current": true,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Implemented streaming data pipelines on Kafka and Spark Streaming for a real-time user-activity processing platform. Designed the schema-registry integration, watermark/state management approach, and deduplication logic for late-arriving events. Worked closely with the data science team to make sure feature pipelines aligned with model needs."
+      },
+      {
+        "company": "Dunder Mifflin",
+        "title": "Analytics Engineer",
+        "start_date": "2019-07-03",
+        "end_date": "2024-01-08",
+        "duration_months": 55,
+        "is_current": false,
+        "industry": "Paper Products",
+        "company_size": "201-500",
+        "description": "Built and maintained data pipelines on Apache Airflow processing ~500GB of daily transactional data across 12 source systems. PySpark for batch processing and dbt for Snowflake warehouse transformation. Owned on-call rotation for data quality, wrote schema drift and volume anomaly detectors."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lovely Professional University",
+        "degree": "B.E.",
+        "field_of_study": "Computer Science",
+        "start_year": 2017,
+        "end_year": 2020,
+        "grade": "8.24 CGPA",
+        "tier": "tier_3"
+      }
+    ],
+    "skills": [
+      {"name": "NLP", "proficiency": "advanced", "endorsements": 37, "duration_months": 26},
+      {"name": "Fine-tuning LLMs", "proficiency": "advanced", "endorsements": 21, "duration_months": 36},
+      {"name": "Weights & Biases", "proficiency": "intermediate", "endorsements": 13, "duration_months": 30},
+      {"name": "Speech Recognition", "proficiency": "advanced", "endorsements": 52, "duration_months": 33},
+      {"name": "BentoML", "proficiency": "intermediate", "endorsements": 3, "duration_months": 36},
+      {"name": "Milvus", "proficiency": "advanced", "endorsements": 40, "duration_months": 35},
+      {"name": "LoRA", "proficiency": "intermediate", "endorsements": 0, "duration_months": 28},
+      {"name": "Apache Beam", "proficiency": "intermediate", "endorsements": 4, "duration_months": 9},
+      {"name": "AWS", "proficiency": "beginner", "endorsements": 5, "duration_months": 8},
+      {"name": "GCP", "proficiency": "beginner", "endorsements": 7, "duration_months": 2}
+    ],
+    "certifications": [],
+    "languages": [
+      {"language": "English", "proficiency": "professional"},
+      {"language": "Hindi", "proficiency": "conversational"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 86.9,
+      "signup_date": "2025-10-16",
+      "last_active_date": "2026-05-20",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 23,
+      "applications_submitted_30d": 2,
+      "recruiter_response_rate": 0.34,
+      "avg_response_time_hours": 177.8,
+      "skill_assessment_scores": {
+        "NLP": 38.8,
+        "Fine-tuning LLMs": 41.6,
+        "Speech Recognition": 53.7
+      },
+      "connection_count": 356,
+      "endorsements_received": 35,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 18.7, "max": 36.1},
+      "preferred_work_mode": "onsite",
+      "willing_to_relocate": false,
+      "github_activity_score": 9.2,
+      "search_appearance_30d": 249,
+      "saved_by_recruiters_30d": 4,
+      "interview_completion_rate": 0.71,
+      "offer_acceptance_rate": 0.58,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0000002",
+    "profile": {
+      "anonymized_name": "Saanvi Sethi",
+      "headline": "Operations Manager | 12.5+ yrs experience",
+      "summary": "Professional with 12.5+ years in operations and marketing management. Curious about how AI tools could augment work — experimented with ChatGPT and LLM tools for productivity.",
+      "location": "Chennai, Tamil Nadu",
+      "country": "India",
+      "years_of_experience": 12.5,
+      "current_title": "Operations Manager",
+      "current_company": "Wipro",
+      "current_company_size": "10001+",
+      "current_industry": "IT Services"
+    },
+    "career_history": [
+      {
+        "company": "Wipro",
+        "title": "Operations Manager",
+        "start_date": "2022-11-14",
+        "end_date": null,
+        "duration_months": 43,
+        "is_current": true,
+        "industry": "IT Services",
+        "company_size": "10001+",
+        "description": "Customer support team lead at a SaaS product. Managed a team of 8 support agents handling tier-1 and tier-2 tickets. Owned escalation process to engineering and customer-feedback loop to product. Built out support knowledge base and agent training program."
+      },
+      {
+        "company": "Acme Corp",
+        "title": "Marketing Manager",
+        "start_date": "2017-03-08",
+        "end_date": "2021-08-14",
+        "duration_months": 54,
+        "is_current": false,
+        "industry": "Manufacturing",
+        "company_size": "201-500",
+        "description": "Content writing and SEO strategy. Managed freelance writer pool. Used LLM tools for research, drafting, and editing."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Local Engineering College",
+        "degree": "B.Sc",
+        "field_of_study": "Mathematics",
+        "start_year": 2007,
+        "end_year": 2011,
+        "grade": "77%",
+        "tier": "tier_4"
+      }
+    ],
+    "skills": [
+      {"name": "Project Management", "proficiency": "intermediate", "endorsements": 14, "duration_months": 23},
+      {"name": "Kafka", "proficiency": "intermediate", "endorsements": 3, "duration_months": 16},
+      {"name": "Feature Engineering", "proficiency": "intermediate", "endorsements": 11, "duration_months": 27},
+      {"name": "GCP", "proficiency": "intermediate", "endorsements": 7, "duration_months": 30}
+    ],
+    "certifications": [],
+    "languages": [
+      {"language": "English", "proficiency": "professional"},
+      {"language": "Hindi", "proficiency": "conversational"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 78.7,
+      "signup_date": "2025-07-28",
+      "last_active_date": "2025-11-12",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 7,
+      "applications_submitted_30d": 1,
+      "recruiter_response_rate": 0.29,
+      "avg_response_time_hours": 171.6,
+      "skill_assessment_scores": {},
+      "connection_count": 179,
+      "endorsements_received": 3,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 8.8, "max": 9.0},
+      "preferred_work_mode": "flexible",
+      "willing_to_relocate": false,
+      "github_activity_score": -1,
+      "search_appearance_30d": 107,
+      "saved_by_recruiters_30d": 10,
+      "interview_completion_rate": 0.62,
+      "offer_acceptance_rate": -1,
+      "verified_email": false,
+      "verified_phone": false,
+      "linkedin_connected": false
+    }
+  },
+  {
+    "candidate_id": "CAND_0000003",
+    "profile": {
+      "anonymized_name": "Arjun Mehta",
+      "headline": "ML Engineer | NLP, LLMs, MLOps",
+      "summary": "5 years building and shipping ML models in production. Focus on NLP and LLM fine-tuning. Strong MLOps — I own the full lifecycle from experiment to serving. Looking for a senior IC role at a company doing serious ML work.",
+      "location": "Bengaluru",
+      "country": "India",
+      "years_of_experience": 5.2,
+      "current_title": "ML Engineer",
+      "current_company": "Flipkart",
+      "current_company_size": "10001+",
+      "current_industry": "E-Commerce"
+    },
+    "career_history": [
+      {
+        "company": "Flipkart",
+        "title": "ML Engineer",
+        "start_date": "2022-06-01",
+        "end_date": null,
+        "duration_months": 36,
+        "is_current": true,
+        "industry": "E-Commerce",
+        "description": "Built and served NLP models for product search ranking and query understanding. Fine-tuned BERT and T5 on internal datasets using LoRA/PEFT. Deployed models via BentoML with 99.9% uptime SLA. Tracked experiments in Weights & Biases. Reduced inference latency by 40% through ONNX optimization and quantization."
+      },
+      {
+        "company": "Juspay",
+        "title": "Data Scientist",
+        "start_date": "2020-08-01",
+        "end_date": "2022-05-20",
+        "duration_months": 21,
+        "is_current": false,
+        "industry": "Fintech",
+        "description": "Built fraud detection models using XGBoost and LightGBM on streaming transaction data. Feature engineering from Kafka event streams. Worked with data engineers to build real-time feature pipelines."
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Bombay",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science",
+        "start_year": 2016,
+        "end_year": 2020,
+        "grade": "8.9 CGPA",
+        "tier": "tier_1"
+      }
+    ],
+    "skills": [
+      {"name": "NLP", "proficiency": "advanced", "endorsements": 89, "duration_months": 48},
+      {"name": "Fine-tuning LLMs", "proficiency": "advanced", "endorsements": 44, "duration_months": 36},
+      {"name": "LoRA", "proficiency": "advanced", "endorsements": 22, "duration_months": 30},
+      {"name": "BentoML", "proficiency": "advanced", "endorsements": 18, "duration_months": 30},
+      {"name": "Weights & Biases", "proficiency": "advanced", "endorsements": 31, "duration_months": 36},
+      {"name": "Milvus", "proficiency": "intermediate", "endorsements": 9, "duration_months": 18},
+      {"name": "PySpark", "proficiency": "intermediate", "endorsements": 12, "duration_months": 20},
+      {"name": "Kafka", "proficiency": "intermediate", "endorsements": 8, "duration_months": 20},
+      {"name": "Python", "proficiency": "advanced", "endorsements": 112, "duration_months": 60},
+      {"name": "SQL", "proficiency": "advanced", "endorsements": 67, "duration_months": 60}
+    ],
+    "certifications": ["AWS ML Specialty"],
+    "languages": [
+      {"language": "English", "proficiency": "professional"},
+      {"language": "Hindi", "proficiency": "native"}
+    ],
+    "redrob_signals": {
+      "profile_completeness_score": 94.2,
+      "signup_date": "2025-09-10",
+      "last_active_date": "2026-06-28",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 67,
+      "applications_submitted_30d": 4,
+      "recruiter_response_rate": 0.62,
+      "avg_response_time_hours": 24.3,
+      "skill_assessment_scores": {
+        "NLP": 84.2,
+        "Fine-tuning LLMs": 79.5,
+        "Image Classification": 71.0
+      },
+      "connection_count": 892,
+      "endorsements_received": 124,
+      "notice_period_days": 30,
+      "expected_salary_range_inr_lpa": {"min": 32.0, "max": 55.0},
+      "preferred_work_mode": "hybrid",
+      "willing_to_relocate": true,
+      "github_activity_score": 8.7,
+      "search_appearance_30d": 512,
+      "saved_by_recruiters_30d": 21,
+      "interview_completion_rate": 0.88,
+      "offer_acceptance_rate": 0.75,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_0000004",
+    "profile": {
+      "anonymized_name": "Priya Nair",
+      "headline": "Data Engineer | Spark, Airflow, Snowflake",
+      "summary": "Pure data engineering background — 8 years building high-throughput batch and streaming pipelines. Expert in PySpark, Airflow, and Snowflake. Haven't done much ML work directly but have supported many DS teams. Looking to stay in data engineering.",
+      "location": "Pune",
+      "country": "India",
+      "years_of_experience": 8.1,
+      "current_title": "Senior Data Engineer",
+      "current_company": "ThoughtWorks",
+      "current_company_size": "5001-10000",
+      "current_industry": "IT Consulting"
+    },
+    "career_history": [
+      {
+        "company": "ThoughtWorks",
+        "title": "Senior Data Engineer",
+        "start_date": "2021-04-01",
+        "end_date": null,
+        "duration_months": 50,
+        "is_current": true,
+        "industry": "IT Consulting",
+        "description": "Architected multi-client data platforms on GCP. Kafka + Spark Streaming for real-time ingestion, Airflow DAGs for orchestration, BigQuery as the warehouse layer. Built reusable dbt packages. Led a team of 3 junior engineers. Data quality tooling: Great Expectations + custom Spark checks."
+      },
+      {
+        "company": "Mu Sigma",
+        "title": "Data Engineer",
+        "start_date": "2017-07-01",
+        "end_date": "2021-03-20",
+        "duration_months": 44,
+        "is_current": false,
+        "industry": "Analytics",
+        "description": "Batch ETL pipelines on Hadoop/Hive migrated to PySpark. Built Airflow DAGs for scheduling. Worked on data modeling for a Snowflake migration project."
+      }
+    ],
+    "education": [
+      {
+        "institution": "BITS Pilani",
+        "degree": "B.E.",
+        "field_of_study": "Information Systems",
+        "start_year": 2013,
+        "end_year": 2017,
+        "grade": "7.8 CGPA",
+        "tier": "tier_1"
+      }
+    ],
+    "skills": [
+      {"name": "PySpark", "proficiency": "advanced", "endorsements": 78, "duration_months": 72},
+      {"name": "Apache Airflow", "proficiency": "advanced", "endorsements": 65, "duration_months": 72},
+      {"name": "Kafka", "proficiency": "advanced", "endorsements": 43, "duration_months": 50},
+      {"name": "Snowflake", "proficiency": "advanced", "endorsements": 54, "duration_months": 60},
+      {"name": "dbt", "proficiency": "advanced", "endorsements": 39, "duration_months": 48},
+      {"name": "BigQuery", "proficiency": "advanced", "endorsements": 31, "duration_months": 50},
+      {"name": "GCP", "proficiency": "advanced", "endorsements": 28, "duration_months": 50},
+      {"name": "Python", "proficiency": "advanced", "endorsements": 90, "duration_months": 90},
+      {"name": "SQL", "proficiency": "advanced", "endorsements": 102, "duration_months": 97}
+    ],
+    "certifications": ["GCP Professional Data Engineer"],
+    "languages": [{"language": "English", "proficiency": "professional"}],
+    "redrob_signals": {
+      "profile_completeness_score": 91.5,
+      "signup_date": "2025-11-02",
+      "last_active_date": "2026-06-15",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 41,
+      "applications_submitted_30d": 3,
+      "recruiter_response_rate": 0.55,
+      "avg_response_time_hours": 18.0,
+      "skill_assessment_scores": {"PySpark": 88.3, "SQL": 91.0},
+      "connection_count": 614,
+      "endorsements_received": 87,
+      "notice_period_days": 60,
+      "expected_salary_range_inr_lpa": {"min": 28.0, "max": 42.0},
+      "preferred_work_mode": "remote",
+      "willing_to_relocate": false,
+      "github_activity_score": 6.4,
+      "search_appearance_30d": 389,
+      "saved_by_recruiters_30d": 14,
+      "interview_completion_rate": 0.81,
+      "offer_acceptance_rate": 0.60,
+      "verified_email": true,
+      "verified_phone": true,
+      "linkedin_connected": true
+    }
+  },
+  {
+    "candidate_id": "CAND_0000005",
+    "profile": {
+      "anonymized_name": "Kabir Sharma",
+      "headline": "Recent Grad | ML Enthusiast",
+      "summary": "Fresh out of college with 8 months of experience. Did Kaggle competitions and a few side projects in NLP and image classification. Looking for my first real ML role.",
+      "location": "Delhi",
+      "country": "India",
+      "years_of_experience": 0.7,
+      "current_title": "Junior Data Analyst",
+      "current_company": "Infosys",
+      "current_company_size": "10001+",
+      "current_industry": "IT Services"
+    },
+    "career_history": [
+      {
+        "company": "Infosys",
+        "title": "Junior Data Analyst",
+        "start_date": "2025-09-01",
+        "end_date": null,
+        "duration_months": 8,
+        "is_current": true,
+        "industry": "IT Services",
+        "description": "Basic SQL reporting and Excel dashboards for internal teams. No ML or engineering work."
+      }
+    ],
+    "education": [
+      {
+        "institution": "Amity University",
+        "degree": "B.Tech",
+        "field_of_study": "Computer Science",
+        "start_year": 2021,
+        "end_year": 2025,
+        "grade": "7.2 CGPA",
+        "tier": "tier_3"
+      }
+    ],
+    "skills": [
+      {"name": "Python", "proficiency": "intermediate", "endorsements": 8, "duration_months": 18},
+      {"name": "NLP", "proficiency": "beginner", "endorsements": 2, "duration_months": 6},
+      {"name": "SQL", "proficiency": "intermediate", "endorsements": 11, "duration_months": 14},
+      {"name": "TensorFlow", "proficiency": "beginner", "endorsements": 1, "duration_months": 8}
+    ],
+    "certifications": ["Coursera Deep Learning Specialization"],
+    "languages": [{"language": "English", "proficiency": "professional"}],
+    "redrob_signals": {
+      "profile_completeness_score": 62.1,
+      "signup_date": "2026-01-10",
+      "last_active_date": "2026-06-01",
+      "open_to_work_flag": true,
+      "profile_views_received_30d": 8,
+      "applications_submitted_30d": 12,
+      "recruiter_response_rate": 0.08,
+      "avg_response_time_hours": 4.2,
+      "skill_assessment_scores": {"NLP": 28.1},
+      "connection_count": 94,
+      "endorsements_received": 5,
+      "notice_period_days": 0,
+      "expected_salary_range_inr_lpa": {"min": 6.0, "max": 10.0},
+      "preferred_work_mode": "onsite",
+      "willing_to_relocate": true,
+      "github_activity_score": 4.1,
+      "search_appearance_30d": 88,
+      "saved_by_recruiters_30d": 1,
+      "interview_completion_rate": 0.45,
+      "offer_acceptance_rate": 1.0,
+      "verified_email": true,
+      "verified_phone": false,
+      "linkedin_connected": false
+    }
+  }
+]
